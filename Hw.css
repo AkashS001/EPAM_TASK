@@ -1,0 +1,37 @@
+.heading{
+ background-color:darkblue;
+ height: 75px;
+	
+	
+	
+}
+.head1{
+	font: Roboto;
+	 height: 75px;
+	 display: flex;
+
+}
+
+.head2{
+
+	display: flex;
+	justify-content: space-between;
+	height: 25px;
+	width: 100px;
+	background-color: white;
+	margin: auto;
+	font-weight: bold;
+	padding: auto;
+
+}
+.head3{
+
+border-bottom: 1px solid black;
+}
+.btn1{
+background-color: orangered;
+height: 30px;
+color: white;
+font-weight: bold;
+border: 2px solid skyblue;
+}
